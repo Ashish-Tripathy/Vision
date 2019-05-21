@@ -1,25 +1,5 @@
 # Architectural Basics
 
-
-
-Learning Rate,
-
-
-
-
-Number of Epochs and when to increase them,
-DropOut
-When do we introduce DropOut, or when do we know we have some overfitting
-
-
-
-How do we know our network is not going well, comparatively, very early
-Batch Size, and effects of batch size
-
-LR schedule and concept behind it
-Adam vs SGD
-
-
 ## Order in which I will make the architectural desicions:
 
 1. Receptive Field - Once I get the data, I will explore the images at hand and the problem to be solved. Looking at the images will help us decide the receptive field that we should target for our model to be able to detect or classify images.
